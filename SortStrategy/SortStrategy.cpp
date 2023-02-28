@@ -20,7 +20,7 @@ public:
 		sort(v.begin(), v.end());
 	}
 };
-
+//Пузырьковая сортировка
 class ShellSort : public SortStrategy
 {
 public:
